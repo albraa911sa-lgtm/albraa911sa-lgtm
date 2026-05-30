@@ -37,7 +37,7 @@ const ALBARA_MAX = {
 <tr>
 <td width="50%" valign="top">
 
-**🛰️ Jadwen · جَدْوِن**
+**🛰️ Jdwin · جَدْوِن**
 
 Spatial intelligence platform for investment and location analysis — multimodal architecture with a proprietary scoring engine across 200+ variables.
 
