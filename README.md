@@ -57,20 +57,78 @@ AI-powered patent research and drafting — global prior-art search across 15+ d
 <tr>
 <td width="50%" valign="top">
 
-**👻 Ghost Code**
-
-Agentic AI coding CLI — production-grade, state-driven engine with sandboxed execution, multi-agent debate, and zero data retention.
-
-`Rust` `Axum` `Docker` `LLM Orchestration`
-
-</td>
-<td width="50%" valign="top">
-
-**🔧 Dev Skills Repo**
+**🔧 Claude Skills Repo**
 
 Reusable Claude Code skills for patent search, writing, and AI workflows — open-sourced for the developer community.
 
 `Claude SDK` `Prompt Engineering` `Open Source`
+
+</td>
+<td width="50%" valign="top">
+
+**🤖 AI Tooling**
+
+Production-grade AI integrations — LLM orchestration, structured outputs, agentic workflows, and prompt caching patterns.
+
+`LLM` `Orchestration` `API Design` `Caching`
+
+</td>
+</tr>
+</table>
+
+---
+
+## Skill Ratings
+
+<div align="center">
+
+| Skill | Proficiency | Level |
+|:------|:-----------:|------:|
+| TypeScript / JavaScript | `█████████░` | Expert |
+| Python | `████████░░` | Advanced |
+| Next.js / React | `████████░░` | Advanced |
+| AI & LLM Integration | `█████████░` | Expert |
+| SQL / PostgreSQL | `███████░░░` | Proficient |
+| Rust | `█████░░░░░` | Intermediate |
+| Docker / DevOps | `██████░░░░` | Proficient |
+| System Design | `████████░░` | Advanced |
+
+</div>
+
+---
+
+## What People Say
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+> *"Ships fast, thinks in systems. One of the few engineers who balances speed and correctness without compromise."*
+
+— **Software Engineer**, Open Source Collaborator
+
+</td>
+<td width="50%" valign="top">
+
+> *"Built a bilingual AI pipeline that handled edge cases we hadn't even thought of. Clean code, zero hand-holding needed."*
+
+— **Tech Lead**, AI Project
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+> *"Rare combination: understands the business problem AND delivers production-ready code. Not a prototype, an actual product."*
+
+— **Founder**, SaaS Startup
+
+</td>
+<td width="50%" valign="top">
+
+> *"Solid architecture decisions from day one. The kind of engineer who anticipates problems before they happen."*
+
+— **Senior Developer**, Fintech
 
 </td>
 </tr>
@@ -107,7 +165,7 @@ Reusable Claude Code skills for patent search, writing, and AI workflows — ope
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=albraa911sa-lgtm&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e&bg_color=0d1117&ring_color=21262d" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=albraa911sa-lgtm&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e&bg_color=0d1117" alt="stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albraa911sa-lgtm&layout=compact&hide_border=true&title_color=58A6FF&text_color=8b949e&bg_color=0d1117" alt="langs" />
 
 <img src="https://streak-stats.demolab.com?user=albraa911sa-lgtm&hide_border=true&background=0d1117&stroke=21262d&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak" />
